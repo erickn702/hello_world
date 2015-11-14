@@ -1,2 +1,2 @@
-﻿Goodbye World;
-Пока;
+﻿Goodbye World
+Пока
