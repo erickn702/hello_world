@@ -1,2 +1,2 @@
-print("Hello World!")
-print("Привет всем")
+п»їprint("Hello World!")
+print("РџСЂРёРІРµС‚ РІСЃРµРј")
